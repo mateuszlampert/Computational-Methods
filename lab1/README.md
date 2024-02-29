@@ -1,0 +1,1 @@
+Computational Methods for Science and Technology course at AGH UST Computer Science
